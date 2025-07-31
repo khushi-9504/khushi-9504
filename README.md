@@ -31,7 +31,7 @@ I'm a passionate **Frontend Developer** with a focus on building modern, respons
 
 ## 🚀 Featured Projects
 
-### 🔹 [Job Hunt Portal](https://github.com/khushi-9504/job-hunt)
+### 🔹 [Job Hunt Portal](https://github.com/khushi-9504/job-portal)
 A full-stack job portal with separate roles for Students and Recruiters. It includes authentication, job application tracking, resume upload, and recruiter dashboard.  
 `MERN | Redux Toolkit | Cloudinary | JWT | Tailwind`
 
